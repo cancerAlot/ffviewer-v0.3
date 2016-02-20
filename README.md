@@ -13,6 +13,12 @@ Just call 'make' - it'll produce a binary called ffviewer
 ## How to use
 ```./ffviewer file1 [file2, directory1, file3...]```
 
+| Key | Action |
+| --- | ---- |
+| Arrow-Left | previous image |
+| Arrow-Right | nextimage |
+| q | exit |
+
 ## Missing features
 * Zoom
 * Move Image by drag and drop (when the image is larger than the window)
