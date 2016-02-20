@@ -7,7 +7,9 @@ Farbfeld is a simple image format. For further information visit http://tools.su
 This viewer is able to show the farbfeld-files.
 
 ## How to install
-Just call 'make' - it'll produce a binary called ffviewer
+
+edit 'config.mk'
+
 ```make ```
 
 ## How to use
