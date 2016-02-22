@@ -8,8 +8,6 @@ This viewer is able to show the farbfeld-files.
 
 ## How to install
 
-edit 'config.mk'
-
 ```make ```
 
 ## How to use
